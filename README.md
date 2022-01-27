@@ -1,0 +1,1 @@
+This project features a simple Twitter bot that reports the number of covid cases in the state cited by the user in a tweet, mentioning the bot.

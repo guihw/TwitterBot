@@ -1,0 +1,46 @@
+API key
+5qFYqtepLXZRCjcauJki1hByC
+API secret key
+gIw1ytiFcp6TArccpERQuJwr3she12L0ytJIrSEQGx6jHZNLAO
+
+Access token
+818240648407121920-JnfFOnZbIgrd3knCjYZu6oBaocfkE8t
+
+Access Secret token
+U4EmckTqKa4OtFaQt444kwQ5zHxG6xWWNX6ISstyBN41I
+
+Bearer token
+AAAAAAAAAAAAAAAAAAAAABNBHQEAAAAAci48BT3UgRJkglo%2BA9Kl4LaHRLM%3DJXDd4MM26fzwEw1r74bngKUaqO55Sgp3IeIeZbuyhG1Vgi2WBE
+
+second account keys:
+
+API key
+gHKxDgSdrwoCGhtNbzjsoze5b
+
+API secret key
+LeIBhRsuowqtj6uJBYizgwguGfCMC9gfeyEKG5uW9GRipYwDm4
+
+Access token
+1301149386437734400-nr3WywLGaBjt0VdRSPSCY5GepZydkX
+
+Access secret token
+1L3JIZxcZqjm3E2uyfsBjYE6FcGW14C3JoyDrkoWslStp
+
+code taken:
+else:
+        print("it's not there")
+    print(ment)
+    fn.writelines(str(f'{ment}\n'))
+
+code taken:
+data_infected = data['infectedByRegion']
+statesList = []
+for dtf in data_infected:
+    statesList.append(dtf['state'])
+
+Console:
+mkvirtualenv my-virtualenv --python=python3.8
+pip install git+https://github.com/tweepy/tweepy.git
+pip install beautifulsoup4
+
+1304603669002936321
