@@ -2,7 +2,7 @@ import tweepy
 import time
 from Covid19_ByState import *
 
-# -------------------------------------------------Twitter API---------------------------------------------------------
+# -------------------------------------------------Twitter-API---------------------------------------------------------
 
 ApiKey = 'gHKxDgSdrwoCGhtNbzjsoze5b'
 ApiSecretKey = 'LeIBhRsuowqtj6uJBYizgwguGfCMC9gfeyEKG5uW9GRipYwDm4'
